@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier
+_commit: v0.2.0
+_src_path: gh:alan-turing-institute/python-project-template
+coc: our_coc
+email: sophie.s.mason@gmail.com
+full_name: 'Sophie '
+license: Apache
+min_python_version: '3.10'
+org: sophie145
+project_name: Penguins
+project_short_description: A great package that analyses penguin populations.
+python_name: penguins
+typing: loose
+url: https://github.com/sophie145/Penguins
