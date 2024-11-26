@@ -28,8 +28,8 @@ classifiers = [
   "Typing :: Typed",
 ]
 dependencies = ["numpy", "pandas", "palmerpenguins", 
-                "matplotlib.pyplot", "seaborn", 
-                " scipy.stats", "statsmodels"]
+                "matplotlib", "seaborn", 
+                " scipy", "statsmodels"]
 
 [project.optional-dependencies]
 dev = [
